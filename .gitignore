@@ -1,0 +1,5 @@
+# ignore jetbrains idea
+.idea/
+
+# ignore venv
+venv/
